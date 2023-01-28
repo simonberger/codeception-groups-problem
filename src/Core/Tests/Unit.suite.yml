@@ -1,0 +1,4 @@
+actor: UnitTester
+suite_namespace: GroupsProblem\Core\Tests\Unit
+groups:
+    unit1: [./Tests/Unit]

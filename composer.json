@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "codeception/codeception": "<=4.1.23",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GroupsProblem\\": "src"
+        }
+    }
+}
